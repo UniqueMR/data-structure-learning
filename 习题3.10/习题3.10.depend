@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583756007 source:c:\数据结构\习题3.10\main.c
+	<stdio.h>
+	<stdlib.h>
+

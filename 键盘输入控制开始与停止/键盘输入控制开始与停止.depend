@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581060426 source:c:\数据结构\键盘输入控制开始与停止\main.c
+	<stdio.h>
+	<stdlib.h>
+

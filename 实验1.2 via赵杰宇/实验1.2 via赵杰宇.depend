@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1585233422 source:c:\数据结构\实验1.2 via赵杰宇\main.c
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+

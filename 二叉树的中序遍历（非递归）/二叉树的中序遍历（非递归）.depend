@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1588936926 source:d:\数据结构\二叉树的中序遍历（非递归）\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1588936909 source:d:\数据结构\二叉树的中序遍历（非递归）\二叉树中序遍历（非递归）.c
+	<stdio.h>
+	<stdlib.h>
+

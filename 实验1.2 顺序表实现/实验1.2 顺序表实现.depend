@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584857566 source:c:\数据结构\实验1.2 顺序表实现\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584857374 source:c:\数据结构\实验1.2 顺序表实现\循环队列的顺序表实现.c
+	<stdio.h>
+	<stdlib.h>
+
+1584857469 source:c:\数据结构\实验1.2 顺序表实现\约瑟夫环相关函数.c
+	<stdio.h>
+	<stdlib.h>
+

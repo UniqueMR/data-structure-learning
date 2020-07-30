@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586513550 source:c:\数据结构\实验 3.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586273542 source:c:\数据结构\实验 3.2\文本格式化函数.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

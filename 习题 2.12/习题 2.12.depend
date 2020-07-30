@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1583304029 source:c:\数据结构\习题 2.12\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1583239483 source:c:\数据结构\习题 2.12\linearlist.c
+	<stdio.h>
+	<stdlib.h>
+
+1583306245 source:c:\数据结构\习题 2.12\function batch.c
+	<stdio.h>
+	<stdlib.h>
+

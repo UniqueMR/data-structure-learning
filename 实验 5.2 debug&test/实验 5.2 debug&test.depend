@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587798073 source:d:\数据结构\实验 5.2 debug&test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

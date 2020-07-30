@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1584696511 source:c:\c语言\实验1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584696511 source:c:\c语言\实验1.2\插入和删除函数.c
+	<stdio.h>
+	<stdlib.h>
+
+1585230322 source:c:\数据结构\实验1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584761279 source:c:\数据结构\实验1.2\插入和删除函数.c
+	<stdio.h>
+	<stdlib.h>
+
+1585054937 source:c:\数据结构\实验1.2\约瑟夫环相关函数.c
+	<stdio.h>
+	<stdlib.h>
+
